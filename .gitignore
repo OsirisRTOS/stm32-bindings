@@ -1,2 +1,2 @@
-# Ignore the target folders of the projects.
-*/target/
+# Ignore the target folder.
+target/
